@@ -1,4 +1,8 @@
 i am working on issues 53
+<<<<<<< HEAD
 finished <add hotfix) issues 53 after fixing hotfix
+=======
+finished issues 53 after fixing hotfix
 
 lalala conflict
+>>>>>>> iss54
